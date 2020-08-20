@@ -32,4 +32,4 @@
 
 <br>
 <br>
-<img align="center" alt="Cat" width="" src="https://github.com/hrittikhere/hrittikhere/blob/master/tenor.gif" />
+<img align="center" alt="Cat" width="" src="https://github.com/kanisht09/kanisht09/blob/master/giphy%20(1).gif" />
