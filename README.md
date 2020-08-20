@@ -4,7 +4,8 @@
 **kanisht09/kanisht09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<html>
+ <body>
 <ul>
  <li>🔭 I’m currently working on my small project</li>
  <li>🌱 I’m currently mastering  my Web Dev skills.</li>
@@ -15,3 +16,5 @@ Here are some ideas to get you started:
   <li>😄 Pronouns: ...</li>
   <li>⚡ Fun fact: ...</li>
 </ul>
+ </body>
+</html>
