@@ -9,7 +9,7 @@
  <li>👯 I’m looking to collaborate on ...</li>
  <li>🤔 I’m looking for help with someone experienced.</li>
  <li>💬 Ask me about ...</li>
- <li>😄 Pronouns: <b>Should always work on one thing at a time!</b>
+ <li>😄: <b>Should always work on one thing at a time!</b>
  <li>⚡ Fun fact: I love competitive programming and Front-end development.
 </ul>
 <br>
@@ -30,3 +30,6 @@
 [linkedin]: https://www.linkedin.com/in/kanisht-agarwal-429772195/
 [instagram]: https://www.instagram.com/kanishtagarwal/
 
+<br>
+<br>
+<img align="center" alt="Cat" width="" src="https://github.com/hrittikhere/hrittikhere/blob/master/tenor.gif" />
