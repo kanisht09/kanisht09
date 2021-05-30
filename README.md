@@ -14,6 +14,15 @@
 </ul>
 <br>
 
+
+<a href="https://www.codechef.com/users/longtimenoshe2"><img src="https://img.shields.io/badge/Codechef-1978-rgb(104,1,104)"></a>
+<a href="https://codeforces.com/profile/kanisht_09"><img src="https://img.shields.io/badge/Codeforces-1266-rgb(28, 126, 28)"></a>
+<a href="https://atcoder.jp/users/kanisht09"><img src="https://img.shields.io/badge/Atcoder-621-rgb(78, 33, 33)"></a>
+<a href="https://leetcode.com/kanisht09/"><img src="https://img.shields.io/badge/Leetcode-1447-ff69b4"></a>
+<a href="https://www.hackerearth.com/@kanisht09"><img src="https://img.shields.io/badge/Hackerearth-1360-green"></a>
+<br>
+
+
 ### Connect with me:
 
 [<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -23,6 +32,7 @@
 
 <br>
 <br>
+
 
 
 [twitter]: https://twitter.com/AgarwalKanisht
