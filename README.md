@@ -6,9 +6,7 @@
 <ul>
  <li>🔭 I’m currently working on my small project.</li>
  <li>🌱 I’m currently mastering  my Web Dev skills.</li>
- <li>👯 I’m looking to collaborate on ...</li>
- <li>🤔 I’m looking for help with someone experienced.</li>
- <li>💬 Ask me about ...</li>
+ <li>💬 Ask me about Competitive Programming and Web Dev.</li>
  <li>😄: <b>Should always work on one thing at a time!</b>
  <li>⚡ Fun fact: I love competitive programming and Front-end development.
 </ul>
@@ -17,8 +15,8 @@
 
 <a href="https://www.codechef.com/users/longtimenoshe2"><img src="https://img.shields.io/badge/Codechef-1978-rgb(104,1,104)"></a>
 <a href="https://codeforces.com/profile/kanisht_09"><img src="https://img.shields.io/badge/Codeforces-1266-rgb(28, 126, 28)"></a>
-<a href="https://atcoder.jp/users/kanisht09"><img src="https://img.shields.io/badge/Atcoder-621-rgb(78, 33, 33)"></a>
-<a href="https://leetcode.com/kanisht09/"><img src="https://img.shields.io/badge/Leetcode-1447-ff69b4"></a>
+<a href="https://atcoder.jp/users/kanisht09"><img src="https://img.shields.io/badge/Atcoder-721-rgb(78, 33, 33)"></a>
+<a href="https://leetcode.com/kanisht09/"><img src="https://img.shields.io/badge/Leetcode-1642-ff69b4"></a>
 <a href="https://www.hackerearth.com/@kanisht09"><img src="https://img.shields.io/badge/Hackerearth-1360-green"></a>
 <br>
 
