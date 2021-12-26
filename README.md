@@ -12,7 +12,11 @@
 </ul>
 <br>
 
+### My Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kanisht09&show_icons=true&count_private=true&theme=dark" alt="kanisht09" />
 
+<br>
+<br>
 <a href="https://www.codechef.com/users/longtimenoshe2"><img src="https://img.shields.io/badge/Codechef-1978-rgb(104,1,104)"></a>
 <a href="https://codeforces.com/profile/kanisht_09"><img src="https://img.shields.io/badge/Codeforces-1266-rgb(28, 126, 28)"></a>
 <a href="https://atcoder.jp/users/kanisht09"><img src="https://img.shields.io/badge/Atcoder-812-rgb(28, 126, 28)"></a>
