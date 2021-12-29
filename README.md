@@ -17,7 +17,7 @@
 <a href="https://www.hackerrank.com/kanisht09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kanisht09" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kanisht_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kanisht_09" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kanisht09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanisht09" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/kanisht09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="kanisht09" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@kanisht09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="kanisht09" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/lecturedsaece" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lecturedsaece" height="30" width="40" /></a>
 </p>
 
