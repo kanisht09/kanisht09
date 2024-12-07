@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kanisht Agarwal</h1>
 <img align="right" alt="Cat" width="330" src="https://github.com/kanisht09/kanisht09/blob/master/giphy%20(1).gif" />
-<h3 align="left">A passionate frontend developer from India</h3>
+<h3 align="left">A passionate Fullstack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanisht09&label=Profile%20views&color=0e75b6&style=flat" alt="kanisht09" /> </p>
 
 
-- 💬 Ask me about **Competitive Programming and Web Dev**
+- 💬 Ask me about **Competitive Programming and Web Development**
 
 - 📫 How to reach me **kanisht09@gmail.com**
 
